@@ -1,5 +1,5 @@
 # Creations
-Διαδραστικές δημιουργίες (Interactives creations)
+Διαδραστικές δημιουργίες (Interactive creations)
 
 1. **Η βιβλιοθήκη της Ζωρζ Σαρή**
 
